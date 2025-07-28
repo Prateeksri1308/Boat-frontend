@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css-data/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="header-section">
+        <div class="offer-line"><p>Celebrate the RCb with 5% off | Code:<b> BOATXRCB18 </b>| <a href="https://www.boat-lifestyle.com/collections/daily-deals"> Shop Now </a></p></div>
+    <div class="main-header">
+        <div class="logo-img op"><img src="/download.png" alt="" height="45px"></div>
+       <div class="categories  op">Cate<d>gor</d>ies</div>
+       <div class="boAt-personal op">boAt Per<d>son</d>alisation</div>
+       <div class="corporate-order op">Corpor<d>ate</d> Order</div>
+       <div class="gifting op">Gifti<d>ng S</d>tore</div>
+       <div class="more op">M<d>ore</d></div>
+       <div class="search-box"><i class="fa-solid fa-magnifying-glass"></i><input type="search" placeholder="searh 'watches' "></div>
+       <div class="user-sec op"><i class="fa-solid fa-user"></i></div>
+       <div class="shop-sec op" style="margin-right: 50px;"><i class="fa-solid fa-bag-shopping"></i></div>
+    
+    </div>
+    </div>
+    <div class="hero-section">
+        <div class="hero">
+            <img src="/rcb.webp" alt="img 1">
+             <img src="/141_elite_ANC_Banner_with_out_price_1440x.webp" alt="image 2">
+             <img src="/Custom_1440x.webp"alt="image 3">
+            <img src="/Best_palaced_to_buy_boat_desktop_banner_1600x.webp" alt="image 4">
+            <img src="/download.webp" alt="image 5">
+            
+        </div>
+    </div>
+    <div class="shoping-section">
+        <h2>Sale <b>Is Li<u style="text-decoration-color: red;">ve</u></b> <a href="#">View All</a></h2>
+        <div class="full-block-shop">
+        <div class="shop-sec"><div class="shop-main-block">
+            <div class="shop-first"><img src="/shop-first.webp" alt="" height="220px"><p>100 Hours Playback</p></div>
+            <h3>boAt Airdopes 181 Pro</h3>
+            <h3>Rs 999</h3>
+            <span class="price-not">Rs 4990</span>  80% of
+        </div>
+        <div class="shop-sec"><div class="shop-main-block">
+            <div class="shop-first"><img src="/shop-first.webp" alt="" height="220px"><p>100 Hours Playback</p></div>
+            <h3>boAt Airdopes 181 Pro</h3>
+            <h3>Rs 999</h3>
+            <span class="price-not">Rs 4990</span>  80% of
+        </div>
+        <div class="shop-sec"><div class="shop-main-block">
+            <div class="shop-first"><img src="/shop-first.webp" alt="" height="220px"><p>100 Hours Playback</p></div>
+            <h3>boAt Airdopes 181 Pro</h3>
+            <h3>Rs 999</h3>
+            <span class="price-not">Rs 4990</span>  80% of
+        </div>
+        <div class="shop-sec"><div class="shop-main-block">
+            <div class="shop-first"><img src="/shop-first.webp" alt="" height="220px"><p>100 Hours Playback</p></div>
+            <h3>boAt Airdopes 181 Pro</h3>
+            <h3>Rs 999</h3>
+            <span class="price-not">Rs 4990</span>  80% of
+        </div>
+        <div class="shop-sec"><div class="shop-main-block">
+            <div class="shop-first"><img src="/shop-first.webp" alt="" height="220px"><p>100 Hours Playback</p></div>
+            <h3>boAt Airdopes 181 Pro</h3>
+            <h3>Rs 999</h3>
+            <span class="price-not">Rs 4990</span>  80% of
+        </div>
+        <div class="shop-sec"><div class="shop-main-block">
+            <div class="shop-first"><img src="/shop-first.webp" alt="" height="220px"><p>100 Hours Playback</p></div>
+            <h3>boAt Airdopes 181 Pro</h3>
+            <h3>Rs 999</h3>
+            <span class="price-not">Rs 4990</span>  80% of
+        </div>
+        </div>
+    </div>
+    </div>
+    <main>
+    <div class="explore-banner-sec">
+        <h2>Explore Nirvana</h2>
+        <img src="/largewidth.webp" alt="" height="100px">
+    </div>
+    </main>
+</body>
+</html>
